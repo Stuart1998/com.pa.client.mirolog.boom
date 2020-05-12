@@ -1,0 +1,42 @@
+{
+    "context": "client",
+    "identifier": "com.pa.client.mirolog.boom",
+    "display_name": "Bigger Explosions",
+    "description": "Bigger explosions for units/buildings/nukes, effects for titans",
+    "author": "mirolog",
+    "version": "2.6",
+    "build": "99377",
+    "date": "2017-03-18",
+    "signature": "not yet implemented",
+    "forum": "https://forums.uberent.com/threads/rel-client-bigger-explosions.71345/",
+    "icon": "http://i.imgur.com/rbz9CbH.jpg",
+    "priority": 100,
+    "url": "https://www.dropbox.com/s/63x029310twnal5/com.pa.client.mirolog.boom.zip?dl=1",
+    "download": "https://cdn.palobby.com/community-mods/downloads/com.pa.client.mirolog.boom.zip",
+    "unitList": false,
+    "fileSystem": false,
+    "searchable": [
+        "bigger",
+        "explosions",
+        "in-game",
+        "effects",
+        "explosion",
+        "mirolog"
+    ],
+    "sort": "bigger explosions",
+    "authors": [
+        "mirolog"
+    ],
+    "timestamp": 1503446400000,
+    "dependencies": [],
+    "companions": [],
+    "scenes": {},
+    "framework": false,
+    "available": true,
+    "enabled": true,
+    "titansOnly": false,
+    "classicOnly": false,
+    "classic": true,
+    "titans": true,
+    "conflicts": {}
+}
