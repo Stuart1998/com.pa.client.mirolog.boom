@@ -15,7 +15,7 @@
     "shader",
     "effects",
 	"graphics",
-	"gfx"
+	"gfx",
 	"fx"
   ]
 }
